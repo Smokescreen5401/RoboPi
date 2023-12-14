@@ -2,9 +2,10 @@ from gpiozero import LED, Motor, Button
 from gpiozero.pins.pigpio import PiGPIOFactory
 from time import sleep
 import subprocess
-
-control = PiGPIOFactory(host='192.168.4.63')
-robot = PiGPIOFactory(host='192.168.4.64')
+import sys
+ 
+RH = int(sys.argv[1])
+robot = PiGPIOFactory(host=RH)
 
 
 WS = Button(26,pull_up=False,pin_factory=control)

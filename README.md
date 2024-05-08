@@ -7,3 +7,6 @@ http://blog.scphillips.com/posts/2013/01/sound-configuration-on-raspberry-pi-wit
 https://osoyoo.com/2021/07/20/raspberry-pi-pico-learning-kit-lesson-5-use-potentiometer-to-control-servo/
 
 https://learn.sparkfun.com/tutorials/setting-up-a-raspberry-pi-3-as-an-access-point/all
+
+
+https://www.amazon.co.uk/WiFi-Router-150Mbps-Hotspot-Wireless/dp/B01N63NJFA/
